@@ -1,4 +1,4 @@
-# Sistema de Divulgação | SelfBot // SelfDiv.
+# Sistema de Divulgação | SelfBot // SelfDiv. | Sistema de Divulgação Discord.
 
 Utilize este selfbot para fazer divulgações com contas fakes do Discord.
 
