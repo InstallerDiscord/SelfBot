@@ -1,0 +1,1 @@
+npm i axios node-fecth@2.6.1 fs colors discord.js@11.5.0 system-sleep sleep.js

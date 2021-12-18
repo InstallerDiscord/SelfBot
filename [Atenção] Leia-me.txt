@@ -1,0 +1,7 @@
+> Para utilizar o self bot é simples:
+
+1. Clique 2 vezes no "[ 1 ] Installer" e logo após clique no "Iniciador".
+2. Um console (Command Prompt) será aberto: Coloque a token que deseja utilizar como conta para Div.
+
+
+@InstallerDiscord
